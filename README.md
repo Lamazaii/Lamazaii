@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lamazaii allias 
+- 👋 Hi, I’m @Lamazaii !
 - 👀 I’m interested in computer science, sport and automobile.
 - 🌱 I’m currently learning development (using Python, Java, C++, Html/Css, Bash), network, database. 
 
