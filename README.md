@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Lamazaii !
 - 👀 I’m interested in computer science, sport and automobile.
+- I'm atually in BUT 1 Informatique at University of Limoges.
 - 🌱 I’m currently learning development (using Python, Java, C++, Html/Css, Bash), network, database. 
 
 
